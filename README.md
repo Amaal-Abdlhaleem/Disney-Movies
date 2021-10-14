@@ -69,5 +69,5 @@ The chart shows that Disney earned the largest total gross on 2016 by 287,339,31
 
 ## **Resources:**
 
-[AdventureWorks sample database](https://data.world/kgarrett/disney-character-success-00-16).
+[Disney Movies dataset](https://data.world/kgarrett/disney-character-success-00-16).
 
