@@ -7,7 +7,6 @@
 ###### Disney Movies Dashboard
 
 ## **Introduction:**
-Introduction:
 This project seeks to explore and analyse Disney movies data. Disney data contains 5 files:
 - disney_characters.
 - disney_director.
