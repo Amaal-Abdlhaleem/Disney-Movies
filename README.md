@@ -7,7 +7,25 @@
 ###### Disney Movies Dashboard
 
 ## **Introduction:**
-This project seeks to explore and analyse Disney movies data to answer some questions:
+Introduction:
+This project seeks to explore and analyse Disney movies data. Disney data contains 5 files:
+- disney_characters.
+- disney_director.
+- disney_movies_total_gross.
+- disney_revenue_1991_2016.
+- disney_voice_actors.
+
+But we access (disney_movies_total_gross) file because it has our scope of answers.
+(disney_movies_total_gross) file contains 6 columns:
+- movie_title.
+- release_date.
+- genre.
+- mpaa_rating.
+- total_gross.
+- inflation_adjusted_gross.
+
+In this report, We answered some questions:
+
 - What is the number of total gross?
 - What is the number of totall movies?
 - What is the number of movies per MPAA rating?
